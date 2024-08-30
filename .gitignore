@@ -11,8 +11,3 @@
 **/Hardware/*.html
 **/Hardware/History
 !**.bin
-
-**/Debug/*
-**/Obj/*
-!**/Debug/*.hex
-!**/Debug/*.bin
